@@ -1,0 +1,1 @@
+{"app":{"name":"loadavggraph.test","description":"","tags":"","id":"ec2163d2.f1144"},"packages":[{"type":"tab","id":"1458527e.05676e","name":"new package","risks":"","benefits":"","purpose":"","install":"optional","datastores":[{"id":"f4de2f1c.78b31","name":"osmonitor","type":"loadavg1"}]}],"allowed-combinations":[]}
